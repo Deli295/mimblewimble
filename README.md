@@ -8,7 +8,7 @@ This patch works for the North American, European and Asian versions of the game
 ## Compatible Versions
 | Region            | Redump DB Entry | CRC-32   | MD5                                  | SHA-1                                      |
 |------------------|------------|---------|--------------------------------------|-------------------------------------------|
-| North Americaa  | [38187](http://redump.org/disc/38187/) | ace98fd2 | a1e5106de7a21f9f122219ae06c7acf9 | 5a292d43323c5f60006119af81e9deb24ed281f2 |
+| North America  | [38187](http://redump.org/disc/38187/) | ace98fd2 | a1e5106de7a21f9f122219ae06c7acf9 | 5a292d43323c5f60006119af81e9deb24ed281f2 |
 | Europe        | [22688](http://redump.org/disc/22688/) | cef6e0b6 | d17616fed24c85fe0821fabad246703b | 0af6619ddce8e87400b59ba79a8ed7c0f66db577 |
 | Asia          | [84235](http://redump.org/disc/84235/) | f6cea036 | ca9d430cae62ca0ed9514508f703fd8c | 06977301f47e71578c42de0e0fb540d8652579ec |
 
